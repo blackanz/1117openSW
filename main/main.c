@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "copy1.h"
+#include "copy.h"
 
 int main()
 {
